@@ -12,8 +12,8 @@ import regex
 
 from models import DurationNet, SynthesizerTrn
 
-title = "LightSpeed: Vietnamese Male Voice TTS"
-description = "Vietnam Male Voice TTS."
+title = "LightSpeed: Vietnamese Voice TTS"
+description = "Vietnam Voice TTS."
 config_file = "config.json"
 duration_model_path = "vbx_duration_model.pth"
 lightspeed_model_path = "gen_619k.pth"
